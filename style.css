@@ -65,7 +65,7 @@ header span {
 .about-section {
     /* Стили для второй секции */
     /* color: #fff; */
-    margin: 100px 0;
+    margin: 100px 0px;
 }
 
 select {
@@ -184,7 +184,7 @@ footer {
     width: 1440px;
     height: 70px;
     background: rgba(163, 167, 255, 0.3);
-    padding-top: 26px;
+    padding: 26px 0px 0px;
 }
 
 .footer-link {
